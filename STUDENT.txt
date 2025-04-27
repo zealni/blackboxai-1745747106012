@@ -1,0 +1,3 @@
+# Map API Key
+# If using a map service that requires an API key, add it here.
+# For Leaflet with OpenStreetMap, no API key is required.
